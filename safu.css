@@ -5,7 +5,7 @@
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
-  color: red;
+  color: maroon;
 }
 
 @-webkit-keyframes rotation {
